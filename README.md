@@ -14,11 +14,11 @@
 <br>
 
 🎓 &nbsp; A passionate university student about technologies.\
-👨🏻‍💻 &nbsp; Plays video games in their free time.\
-👨🏻‍💻 &nbsp; Participates in programming contests.\
+👨🏻‍💻 &nbsp; I play video games in their free time.\
+👨🏻‍💻 &nbsp; I participate in programming contests.\
 ✍️ &nbsp; I like to write down the things I think.\
 ✉️ &nbsp; You can shoot me an email at S18120164@alumnos.itsur.edu.mx , I'll try to respond as soon as I can.\
-💡 &nbsp; I enjoys learning new things on their own.
+💡 &nbsp; I enjoy learning new things on their own.
     
 <br>
 <br>
